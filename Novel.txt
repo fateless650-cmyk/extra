@@ -1,4 +1,4 @@
---- Chapter 1 (Birth of an Anomaly) 1c37553b55e780ba83ebcfc5b99d8acb.md ---
+---  1 (Birth of an Anomaly) 1c37553b55e780ba83ebcfc5b99d8acb.md ---
 
 # Chapter 1 (Birth of an Anomaly)
 
@@ -44,9 +44,9 @@ For nobles, this was a grand event, a moment to solidify their place in society.
 
 ###
 
---- Chapter 10(Instinct Unleashed) 1c87553b55e7807d9407dd9b53e7c1a9.md ---
+---  10(Instinct Unleashed) 1c87553b55e7807d9407dd9b53e7c1a9.md ---
 
-# Chapter 10(Instinct Unleashed)
+#  10(Instinct Unleashed)
 
 The world slowed.
 
@@ -173,9 +173,9 @@ He had no idea what was coming next.
 
 But one thing was certain—his days in obscurity were over.
 
---- Chapter 11 – Whispers of the Duel 1c97553b55e7800b9303da388844a8a5.md ---
+---  11 – Whispers of the Duel 1c97553b55e7800b9303da388844a8a5.md ---
 
-# Chapter 11 – Whispers of the Duel
+#  11 – Whispers of the Duel
 
 The aftermath of the duel between Kael and Varian sent ripples throughout the academy and beyond.
 
@@ -345,9 +345,9 @@ But Rhovan wasn’t.
 
 ###
 
---- Chapter 12 – Unwanted Attention 1c97553b55e780989e7dd9831d3b6226.md ---
+---  12 – Unwanted Attention 1c97553b55e780989e7dd9831d3b6226.md ---
 
-# Chapter 12 – Unwanted Attention
+#  12 – Unwanted Attention
 
 Kael had never been one to seek attention.
 
@@ -581,9 +581,9 @@ He was someone they had to acknowledge.
 
 And this… was just the beginning.
 
---- Chapter 13 – A New Normal 1c97553b55e780979b6ad7ecf4e4fabc.md ---
+---  13 – A New Normal 1c97553b55e780979b6ad7ecf4e4fabc.md ---
 
-# Chapter 13 – A New Normal
+#  13 – A New Normal
 
 The training grounds still buzzed with energy, the echoes of their earlier matches lingering in the air. Groups of students lingered, whispering, casting occasional glances at Kael.
 
@@ -739,9 +739,9 @@ Kael’s instincts flared.
 
 **This wasn’t a coincidence.**
 
---- Chapter 14 – The Weight of Arrogance 1cb7553b55e780e68718e14a6a047756.md ---
+---  14 – The Weight of Arrogance 1cb7553b55e780e68718e14a6a047756.md ---
 
-# Chapter 14 – The Weight of Arrogance
+#  14 – The Weight of Arrogance
 
 The group of seniors stood in a loose semicircle around Kael, their presence heavy with an air of superiority. Their uniforms were pristine, their postures relaxed yet imposing—men who had never truly faced adversity, yet carried themselves as if they were the ones who ruled the academy.
 
@@ -935,9 +935,9 @@ He stepped over the beaten noble, breathing hard, voice low but steady.
 
 And he kept walking.
 
---- Chapter 15 (Target Marked) 1cb7553b55e780f1808af9165d348ec2.md ---
+---  15 (Target Marked) 1cb7553b55e780f1808af9165d348ec2.md ---
 
-# Chapter 15 (Target Marked)
+#  15 (Target Marked)
 
 Kael didn’t spare another glance at the bloodied heap behind him. He turned, fists still clenched, chest rising and falling as adrenaline throbbed through his veins. With measured steps, he began walking back toward the orphanage path, the fight behind him, the dusk ahead.
 
@@ -1055,9 +1055,9 @@ But ready.
 
 Predatory.
 
---- Chapter 16 – The Smile Before the Storm 1cc7553b55e780abb5abec0a3a97d390.md ---
+---  16 – The Smile Before the Storm 1cc7553b55e780abb5abec0a3a97d390.md ---
 
-# Chapter 16 – The Smile Before the Storm
+#  16 – The Smile Before the Storm
 
 The name Vanesh lingered in the air like smoke from a dying fire—sharp, bitter, impossible to ignore.
 
@@ -1225,9 +1225,9 @@ The gap wasn’t just talent.
 
 It was *mastery.*
 
---- Chapter 17 The Edge of Despair 1ce7553b55e780838c0deab4cdde1091.md ---
+---  17 The Edge of Despair 1ce7553b55e780838c0deab4cdde1091.md ---
 
-# Chapter 17: The Edge of Despair
+#  17: The Edge of Despair
 
 Kael's breaths were ragged, sweat tracing furious lines down his face. His muscles screamed with fatigue, his knuckles raw from impact. Across from him, Vanesh stood like a statue—unruffled, untouchable.
 
@@ -1387,9 +1387,9 @@ Kael took a deep breath, the hunger in his gut roaring louder with every heartbe
 
 This was just the beginning.
 
---- Chapter 18 (Cracks in the Dance) 1ce7553b55e78056a311e70df504678f.md ---
+---  18 (Cracks in the Dance) 1ce7553b55e78056a311e70df504678f.md ---
 
-# Chapter - 18 (Cracks in the Dance)
+#  - 18 (Cracks in the Dance)
 
 Kael’s breath was steady now.
 
@@ -1621,9 +1621,9 @@ Kael, barely conscious, clung to life with bloodied fingers and gritted teeth.
 
 It was just the debt he owed for surviving.
 
---- Chapter 19 – The Road Back 1ce7553b55e780d3a682f04724dc53cb.md ---
+---  19 – The Road Back 1ce7553b55e780d3a682f04724dc53cb.md ---
 
-# Chapter 19 – The Road Back
+#  19 – The Road Back
 
 Kael stumbled forward, legs dragging like rusted chains. Blood trickled down his temple, painting the dirt below with every unsteady step.
 
@@ -1851,9 +1851,9 @@ He turned to leave, then paused.
 
 With that, Vanesh walked away—his shadow vanishing into the night.
 
---- Chapter 2( The Boy Who Didn't Belong) 1c37553b55e780139fb6e4ef657e0d0a.md ---
+---  2( The Boy Who Didn't Belong) 1c37553b55e780139fb6e4ef657e0d0a.md ---
 
-# Chapter 2( The Boy Who Didn't Belong)
+#  2( The Boy Who Didn't Belong)
 
 The sun peeked through the old, cracked windows of the orphanage, casting golden streaks across the worn-out wooden floors. Among the many children who scurried about, one stood apart—not by choice, but by nature.
 
@@ -1949,9 +1949,9 @@ In the orphanage, strength meant survival.
 
 And Kael had no intention of being weak.
 
---- Chapter 20 - Whispers in the Dark 1cf7553b55e7806191a4fe038aa0468c.md ---
+---  20 - Whispers in the Dark 1cf7553b55e7806191a4fe038aa0468c.md ---
 
-# Chapter 20 - Whispers in the Dark
+#  20 - Whispers in the Dark
 
 Darkness.
 
@@ -2245,9 +2245,9 @@ Not in pride.
 
 But in defiance.
 
---- Chapter 21 - The Weight of Whispers 1d07553b55e780b7a652fad6cc3605ed.md ---
+---  21 - The Weight of Whispers 1d07553b55e780b7a652fad6cc3605ed.md ---
 
-# Chapter 21 - The Weight of Whispers
+#  21 - The Weight of Whispers
 
 ---
 
@@ -2385,9 +2385,9 @@ They’d understand.
 
 ---
 
---- Chapter 22 The Demonstration 1d07553b55e7805d851ce877407b0421.md ---
+---  22 The Demonstration 1d07553b55e7805d851ce877407b0421.md ---
 
-# Chapter 22: The Demonstration
+#  22: The Demonstration
 
 After 10 months…
 
@@ -2451,9 +2451,9 @@ Raelis's eyes narrowed, her gaze fixed on Kael with a mix of fascination and app
 
 On the field, Halric, driven by a desperate mix of pride and defiance, charged again. But it was pointless, a final attempt to salvage his dignity. Kael stepped forward, an aura of blue energy flaring around him like a protective shield. And Halric froze."
 
---- Chapter 23 - Unfinished Business 1d17553b55e78008981effd2d5f4bc9d.md ---
+---  23 - Unfinished Business 1d17553b55e78008981effd2d5f4bc9d.md ---
 
-# Chapter 23 - Unfinished Business
+#  23 - Unfinished Business
 
 Halric froze—not because he chose to, but because something primal screamed at him not to move.
 
@@ -2535,9 +2535,9 @@ Aeron’s retort was cut short by Halric’s next words, his voice brooking no f
 
 Halric's gaze swept over them one last time, a silent assessment of their readiness. "You have one week," he announced, his voice firm and unwavering. "One week to prepare. To rest. To hone yourselves into the weapons you are meant to be." He paused, letting the weight of his words sink in. "Do not underestimate this exam. It will test you in ways you cannot yet imagine." With a final, curt nod, he dismissed them. The breath they’d all been holding finally released—as if the storm had passed, but not yet ended.
 
---- Chapter 3 – The Path to Awakening 1c47553b55e780a88948e30df498717f.md ---
+---  3 – The Path to Awakening 1c47553b55e780a88948e30df498717f.md ---
 
-# Chapter 3 – The Path to Awakening
+#  3 – The Path to Awakening
 
 The classroom was vast, a grand hall carved from dark stone, its high ceilings adorned with intricate carvings of calamities past. Large, arched windows allowed golden rays of light to spill in, casting long shadows that danced across the polished obsidian floors. The scent of aged parchment, burning incense, and faint traces of ozone from magic hung in the air. Rows of desks, each carved from a different type of enchanted wood, were arranged in a semi-circle around a central lectern, designed to place emphasis on the instructor while still allowing the students to observe one another.
 
@@ -2619,9 +2619,9 @@ Kael stood up as well, his expression unreadable.
 
 Tomorrow, the truth would be revealed.
 
---- Chapter 4(The Echo of Fallen Titans) 1c47553b55e780db8af5e5e048dd20cf.md ---
+---  4(The Echo of Fallen Titans) 1c47553b55e780db8af5e5e048dd20cf.md ---
 
-# Chapter 4(The Echo of Fallen Titans)
+#  4(The Echo of Fallen Titans)
 
 The classroom settled into a hush as Master Orlin stood before them, his presence alone enough to command their full attention. The flickering torches on the walls cast long shadows, and the air was thick with the scent of burning incense and aged parchment. With deliberate patience, he surveyed the students, his piercing gaze resting on each one for a brief moment before he began.
 
@@ -2671,9 +2671,9 @@ It was a warning.
 
 And a challenge.
 
---- Chapter 5(Echoes of a Failed Awakening) 1c47553b55e7809591dfda8cf34b9259.md ---
+---  5(Echoes of a Failed Awakening) 1c47553b55e7809591dfda8cf34b9259.md ---
 
-# Chapter 5(Echoes of a Failed Awakening)
+#  5(Echoes of a Failed Awakening)
 
 The ceremony grounds buzzed with an electric anticipation, the crowd pressing close to witness the grand spectacle. The towering ancestral tree, its bark infused with the essence of the ancient progenitor, stood at the center—a silent judge to those who sought its power.
 
@@ -2771,9 +2771,9 @@ This was not the end.
 
 Not for him.
 
---- Chapter 6(Unbroken Resolve) 1c57553b55e7807580b6ed0b81cfbbec.md ---
+---  6(Unbroken Resolve) 1c57553b55e7807580b6ed0b81cfbbec.md ---
 
-# Chapter 6(Unbroken Resolve)
+#  6(Unbroken Resolve)
 
 The aftermath of the ceremony settled like a heavy fog over the gathering. The once-buzzing atmosphere now carried an awkward silence, broken only by the occasional hushed whisper or snicker. Kael felt every stare, every smirk aimed in his direction, yet he walked with steady steps, his face betraying nothing. Each step felt deliberate, as if he were treading a fragile line between defiance and dismissal.
 
@@ -2833,9 +2833,9 @@ Kael exhaled slowly, his fingers loosening. The road forward was uncertain, but 
 
 And so, he would walk forward, step by step, until the truth revealed itself.
 
---- Chapter 7 1c57553b55e7808fafa2cb0fc69628b6.md ---
+---  7 1c57553b55e7808fafa2cb0fc69628b6.md ---
 
-# Chapter 7
+#  7
 
 A month had passed since the ceremony, and life at the academy continued as if Kael’s failed awakening had been nothing more than a passing breeze. Yet, beneath the surface, everything had changed.
 
@@ -2873,9 +2873,9 @@ Kael watched closely, studying their movements, their weaknesses, their reliance
 
 And then, his name was called.
 
---- Chapter 8 1c57553b55e78096b2c3c4426ea5b686.md ---
+---  8 1c57553b55e78096b2c3c4426ea5b686.md ---
 
-# Chapter 8
+#  8
 
 Kael stepped forward, his heartbeat steady, his breathing controlled. The murmurs around him rose, a mix of curiosity and amusement. Many had expected him to vanish into obscurity after his failed awakening. Instead, he stood here, ready to fight.
 
@@ -2939,9 +2939,9 @@ Kael turned away, his heartbeat finally slowing. He hadn’t won. But he hadn’
 
 And for now, that was enough.
 
---- Chapter 9 1c77553b55e780eeaaa6de69ca80b1db.md ---
+---  9 1c77553b55e780eeaaa6de69ca80b1db.md ---
 
-# Chapter 9
+#  9
 
 The sparring exams had finally come to an end, but the energy in the training grounds still crackled with anticipation. Students whispered among themselves, discussing the matches, the victories, the surprises. The noble factions reevaluated their pecking order, while the commoners exchanged glances filled with renewed hope or deeper resignation.
 
@@ -3027,212 +3027,4 @@ Kael’s lips curled into a grin. The pain, the pressure, the challenge—it awa
 
 And for the first time in a long while, he felt truly alive.
 
---- Characters 1c47553b55e780c6a4bfefc981329971.md ---
-
-# Characters
-
-Here is the list of all characters, their powers, and talent levels:
-
-1. **Aeron Veyrath** – Lightning and Wind | **High**
-2. **Lysara Zaryth** – Fire | **High**
-3. **Rael Solmara** – Light | **High**
-4. **Ceylan Nyxir** – Darkness | **High**
-5. **Gorath Dainvaar** – Earth | **High**
-6. **Kaelen Vaelstrom** – Water and Ice | **High**
-7. **Rhovan Dainvaar** – Earth | **Mid**
-8. **Varian Dainvaar** – Earth and Gravity | **Legendary (Will give a power like domain expansion where he makes a inverted world like shinki hirako)**
-9. **Kael** – **(No visible awakening)** | **(Unknown)**
-
-Let me know if you need any changes!
-
-10 - Rhovan Dainvaar - Steel
-
-11 - Vanesh - Rupture
-
-12 - Harvek Dainvaar - Dad of Rhovan
-
-13 - Theron Veyrath
-
---- Home 1fad5c6529fd47839df6f955b31b6741.md ---
-
-# Home
-
-[Untitled](Home%201fad5c6529fd47839df6f955b31b6741/Untitled%204bee603c574343e8987f29de9b9f869c.csv)
-
-[My tasks](Home%201fad5c6529fd47839df6f955b31b6741/My%20tasks%20c94ee9c9e7f6424c8b99556cbc20afc3.csv)
-
-[Home views](Home%201fad5c6529fd47839df6f955b31b6741/Home%20views%2015d28009806747d5a97b44ba75caeb1c.csv)
-
-[Untitled](Home%201fad5c6529fd47839df6f955b31b6741/Untitled%200c308a0a67cc421ab36d4fb19f705ef6.csv)
-
---- Noble houses 1c47553b55e7806f807be5ab1a62d144.md ---
-
-# Noble houses
-
-### **1. Veyrath Clan (House of Storms & Tempests) ⚡**
-
-- **Symbol:** A swirling storm engulfing a shattered mountain.
-- **Element:** Lightning & Wind.
-- **Role:** Enforcers of divine judgment. Strike down forbidden knowledge or abominations that disrupt balance.
-- **Notable Trait:** Their presence can summon sudden storms.
-- **Inspiration:** *Vayu (Wind) + Wrath.*
-
----
-
-### **2. Zaryth Clan (House of the Eternal Inferno) 🔥**
-
-- **Symbol:** A crimson flame inside an ancient eye.
-- **Element:** Fire.
-- **Role:** Guardians of destruction and renewal. Burn away corruption before rebirth can occur.
-- **Notable Trait:** Their blood is said to burn hotter than any fire.
-- **Inspiration:** *Zar (Fire in Persian) + Pyre (Burning).*
-
----
-
-### **3. Solmara Clan (House of the Sun) ☀️**
-
-- **Symbol:** A golden sun with chains wrapping around it.
-- **Element:** Light.
-- **Role:** Overseers of fate and balance. Ensure balance among the noble houses and the mortal world.
-- **Notable Trait:** Their eyes emit a faint golden glow in darkness.
-- **Inspiration:** *Sol (Latin for Sun) + Mara (Sanskrit for Illusion).*
-
----
-
-### **4. Nyxir Clan (House of Shadows & the Abyss) 🌑**
-
-- **Symbol:** A black crescent moon with a dagger piercing through it.
-- **Element:** Darkness & Void.
-- **Role:** Assassins of fate. They silently erase those who pose a cosmic threat.
-- **Notable Trait:** Their bodies blend into shadows, making them almost invisible.
-- **Inspiration:** *Nyx (Greek Night Goddess) + Mirage.*
-
----
-
-### **5. Vaelstrom Clan (House of the Tides & Oceans) 🌊**
-
-- **Symbol:** A silver trident emerging from a whirlpool.
-- **Element:** Water & Ice.
-- **Role:** Keepers of the deep. They control the seas, ensuring the balance of nature and preventing forbidden underwater knowledge from surfacing.
-- **Notable Trait:** Their presence can cause tides to shift unnaturally.
-- **Inspiration:** *Vael (Beyond the world) + Maelstrom (Powerful whirlpool).*
-
----
-
-### **6. Dainvaar Clan (House of Stone & Earthquakes) ⛰️**
-
-- **Symbol:** A cracked mountain with glowing runes inside.
-- **Element:** Earth.
-- **Role:** The unyielding guardians of stability. Prevent technological advancements from spiraling into chaos.
-- **Notable Trait:** Their footsteps alone can cause tremors.
-- **Inspiration:** *Dain (Elder) + Vaar (Keeper/Protector).*
-
-### **1. Veyrath Clan – The Stormborn Lords**
-
-**Main Specialty:** Beast Taming & Warfare
-
-- **Drakefang House (Vanguard – Combat & Warfare)**
-    - Specializes in **mounted combat** with tamed beasts.
-    - Their warriors **ride warbeasts** into battle.
-    - Signature Technique: **Skybreaker Charge** – A cavalry strike with thunder-infused speed.
-- **Howlshade House (Veil – Espionage & Information Control)**
-    - Masters of **beast-assisted scouting** and **tracking enemies**.
-    - Use **trained falcons, wolves, and shadow panthers** for information gathering.
-- **Stormbloom House (Hearth – Support & Leadership)**
-    - Breeders of **legendary warbeasts** and trainers of **elite riders**.
-    - Act as **diplomats** with other clans to negotiate the use of powerful creatures.
-
----
-
-### **2. Zaryth Clan – The Infernal Artisans**
-
-**Main Specialty:** Smithing, Forging & Alchemy
-
-- **Moltenheart House (Vanguard – Combat & Warfare)**
-    - Warriors wield **self-forged weapons** attuned to their souls.
-    - Can **ignite their weapons in battle**, making their strikes devastating.
-    - Signature Weapon: **Inferno Edge** – A blade that burns hotter with each strike.
-- **Emberveil House (Veil – Espionage & Information Control)**
-    - Secret **artifact hunters** who steal and **repurpose enemy technology**.
-    - Have spies within black markets to control the flow of **rare materials**.
-- **Ironroot House (Hearth – Support & Leadership)**
-    - The **best master forgers and alchemists** of the clan.
-    - Create **legendary weapons, potions, and armor**.
-    - Built **The Furnace Vault**, where divine weapons are locked away.
-
----
-
-### **3. Solmara Clan – Keepers of Fate**
-
-**Main Specialty:** Runes, Ancient Knowledge & Memory Sealing
-
-- **Starforged House (Vanguard – Combat & Warfare)**
-    - Use **rune-enhanced weapons** that can rewrite the battlefield’s conditions.
-    - Wield **sealing chains** that can bind even the strongest foes.
-    - Signature Move: **Fate’s Shackles** – Temporarily seals enemy abilities.
-- **Duskscript House (Veil – Espionage & Information Control)**
-    - Masters of **erasing, manipulating, and altering memories**.
-    - Keep forbidden knowledge hidden through **coded scripts and illusions**.
-    - Often erase the **existence of traitors or dangerous individuals**.
-- **Everglyph House (Hearth – Support & Leadership)**
-    - The keepers of **ancient tomes, artifacts, and prophecy records**.
-    - Lead the **Rituals of Awakening** for young calamities.
-    - Their **oracle division** is rumored to predict major events.
-
----
-
-### **4. Nyxir Clan – The Silent Executioners**
-
-**Main Specialty:** Assassination, Shadow Manipulation & Espionage
-
-- **Nightpierce House (Vanguard – Combat & Warfare)**
-    - Silent assassins who wield **shadow-infused blades**.
-    - Can phase between **light and darkness** in battle.
-    - Signature Move: **Phantom Step** – An instant dash that leaves behind afterimages.
-- **Whisperclaw House (Veil – Espionage & Information Control)**
-    - Infiltrates **enemy clans, noble courts, and battlefields**.
-    - Use **venomous daggers** and cursed whispers to break their targets’ minds.
-    - Said to have **hidden assassins embedded in every clan**.
-- **Veilborn House (Hearth – Support & Leadership)**
-    - Control the **underground network** of mercenaries and informants.
-    - Lead the **Night Court**, where noble disputes are settled in secrecy.
-    - Handle **forbidden contracts** for assassinations that no one else dares to take.
-
----
-
-### **5. Vaelstrom Clan – The Ocean’s Keepers**
-
-**Main Specialty:** Exploration, Naval Warfare & Ancient Ruins
-
-- **Tideborn House (Vanguard – Combat & Warfare)**
-    - Masters of **aquatic combat**, using water to amplify their strikes.
-    - Can **breathe underwater** and control **water currents** in battle.
-    - Signature Move: **Tsunami Spear** – Launches a massive wave with a single strike.
-- **Seastride House (Veil – Espionage & Information Control)**
-    - Master **navigators and spies** who use the oceans to travel unseen.
-    - Have **hidden underwater safe houses** across the world.
-    - Often **smuggle rare relics** from forbidden lands.
-- **Drifthaven House (Hearth – Support & Leadership)**
-    - Control the **greatest fleet of warships** in the world.
-    - Mapmakers and scholars of the **hidden places of the world**.
-    - Have a **neutral stance**, often trading between other noble clans.
-
----
-
-### **6. Dainvaar Clan – The Immovable Guardians**
-
-**Main Specialty:** Defense, Barrier Creation & Territory Control
-
-- **Ironveil House (Vanguard – Combat & Warfare)**
-    - Masters of **shield combat**, specializing in countering aggressive opponents.
-    - Their bodies are rumored to be as **strong as mountains**.
-    - Signature Move: **Unbreakable Citadel** – Temporarily makes them immune to attacks.
-- **Stonewatch House (Veil – Espionage & Information Control)**
-    - Handle **defense intelligence**, monitoring enemy movements and threats.
-    - Have a network of **hidden fortresses and barrier nodes**.
-    - Their agents specialize in **countering espionage** from other clans.
-- **Runebound House (Hearth – Support & Leadership)**
-    - The builders of **great cities, fortresses, and strongholds**.
-    - Maintain **barrier networks** that protect major territories.
-    - Lead **diplomatic relations** between the noble clans.
 
